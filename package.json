@@ -10,8 +10,7 @@
   "lint-staged": {
     "./**/*.{js,jsx,css}": [
       "yarn lint",
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ]
   },
   "devDependencies": {
