@@ -24,13 +24,6 @@
 
 ## 如何使用
 
-这份 code specifications 有两种用途 :
-
-- 单纯的使用它.
-- 想要做出你的贡献.
-
-### 单纯的使用它
-
 你只需要把这个仓库 clone 到本地，然后进入文件夹，安装相应的依赖。
 
 ```shell
@@ -40,17 +33,21 @@ cd code-specifications && npm install
 
 然后，你就能享受到规范的编码乐趣。
 
-### 想要做出你的贡献
+## 例子
 
-你需要使用以下的步骤来进行贡献：
+![See examples](./assets/images/example.gif)
+
+## 贡献
+
+**我们期望为这份 code specifications 做出贡献，让所有人、每个人都感到愉快、享受和有教育意义。**你只需要使用以下的步骤来进行贡献：
 
 将这份仓库 fork 到本地。
 
-![Fork this repository](./assets/images/fork.png)
+![Fork this repository](/Users/pftom/Projects/ProgrammingLearning/packages/code-specifications/assets/images/fork.png)
 
 将 fork 的仓库 clone 到本地。
 
-![Clone to your local machine](./assets/images/clone.png)
+![Clone to your local machine](/Users/pftom/Projects/ProgrammingLearning/packages/code-specifications/assets/images/clone.png)
 
 然后安装依赖，添加你的修改，然后发起一个 PR 。
 
@@ -58,7 +55,3 @@ cd code-specifications && npm install
 git clone https://github.com/pftom/code-specifications.git
 cd code-specifications && npm install
 ```
-
-## 例子
-
-![See examples](./assets/images/example.gif)
