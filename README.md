@@ -43,11 +43,11 @@ And then enjoying standard happy coding.
 
 Fork this repository.
 
-![Fork this repository](/Users/pftom/Projects/ProgrammingLearning/packages/code-specifications/assets/images/fork.png)
+![Fork this repository](./assets/images/fork.png)
 
 Clone this forked repository to your local machine.
 
-![Clone to your local machine](/Users/pftom/Projects/ProgrammingLearning/packages/code-specifications/assets/images/clone.png)
+![Clone to your local machine](./assets/images/clone.png)
 
 And then clone this repository, add your improvement and make a PR.
 
