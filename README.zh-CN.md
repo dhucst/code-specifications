@@ -43,11 +43,11 @@ cd code-specifications && npm install
 
 将这份仓库 fork 到本地。
 
-![Fork this repository](/Users/pftom/Projects/ProgrammingLearning/packages/code-specifications/assets/images/fork.png)
+![Fork this repository](./assets/images/fork.png)
 
 将 fork 的仓库 clone 到本地。
 
-![Clone to your local machine](/Users/pftom/Projects/ProgrammingLearning/packages/code-specifications/assets/images/clone.png)
+![Clone to your local machine](./assets/images/clone.png)
 
 然后安装依赖，添加你的修改，然后发起一个 PR 。
 
