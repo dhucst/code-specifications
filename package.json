@@ -1,5 +1,5 @@
 {
-  "name": "team-specification",
+  "name": "team-specifications",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,9 +8,9 @@
     "precommit": "lint-staged"
   },
   "lint-staged": {
-    "./**/*.{js,jsx,css,md}": [
-      "prettier --write",
-      "git add"
+    "./**/*.{js,jsx,css}": [
+      "yarn lint",
+      "prettier --write"
     ]
   },
   "devDependencies": {
